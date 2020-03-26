@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.mongodb.scala:mongo-scala-bson_2.13:2.9.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.mongodb.scala/mongo-scala-bson_2.13/jars/mongo-scala-bson_2.13-2.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.mongodb.scala/mongo-scala-bson_2.13/srcs/mongo-scala-bson_2.13-2.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

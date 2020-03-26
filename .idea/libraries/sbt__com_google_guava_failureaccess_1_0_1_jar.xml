@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.google.guava:failureaccess:1.0.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.guava/failureaccess/bundles/failureaccess-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.guava/failureaccess/srcs/failureaccess-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

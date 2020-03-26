@@ -1,0 +1,45 @@
+version: '3'
+
+services:
+  postgres:
+    container_name: postgres-service
+    hostname: postgres-service
+    image: postgres:12.1
+    restart: always
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: dev.capivara
+      POSTGRES_DB: users
+      TZ: GMT-3
+    ports:
+      - "19000:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data
+      - ./database_init/ddl.sql:/docker-entrypoint-initdb.d/1.sql
+    networks:
+      - datanodes-network
+
+
+  mongo:
+    container_name: mongo-service
+    image: mongo:4.0.13-xenial
+    environment:
+      MONGO_INITDB_DATABASE: devCapivaraMicroservice
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: dev.capivara
+      TZ: America/Fortaleza
+    ports:
+      - "19200:27017"
+    volumes:
+      - db-data-mongodb:/data/db
+      - ./database_init/init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro
+    networks:
+      - datanodes-network
+
+volumes:
+  db-data:
+  db-data-mongodb:
+
+networks:
+  datanodes-network:
+    driver: bridge

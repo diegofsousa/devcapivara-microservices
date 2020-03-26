@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devcapivara.iml" filepath="$PROJECT_DIR$/.idea/modules/devcapivara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devcapivara-api.iml" filepath="$PROJECT_DIR$/.idea/modules/devcapivara-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devcapivara-build.iml" filepath="$PROJECT_DIR$/.idea/modules/devcapivara-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devcapivara-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/devcapivara-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lagom-internal-meta-project-cassandra.iml" filepath="$PROJECT_DIR$/.idea/modules/lagom-internal-meta-project-cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lagom-internal-meta-project-kafka.iml" filepath="$PROJECT_DIR$/.idea/modules/lagom-internal-meta-project-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lagom-internal-meta-project-service-locator.iml" filepath="$PROJECT_DIR$/.idea/modules/lagom-internal-meta-project-service-locator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-api.iml" filepath="$PROJECT_DIR$/.idea/modules/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/user-impl.iml" />
+    </modules>
+  </component>
+</project>

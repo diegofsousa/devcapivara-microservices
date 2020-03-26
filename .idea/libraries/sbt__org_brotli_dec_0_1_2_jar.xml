@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.brotli:dec:0.1.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.brotli/dec/jars/dec-0.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.brotli/dec/srcs/dec-0.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

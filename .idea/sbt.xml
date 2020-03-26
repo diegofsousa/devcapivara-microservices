@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/devcapivara-api" />
+            <option value="$PROJECT_DIR$/devcapivara-impl" />
+            <option value="$PROJECT_DIR$/gateway" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra" />
+            <option value="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka" />
+            <option value="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator" />
+            <option value="$PROJECT_DIR$/user-api" />
+            <option value="$PROJECT_DIR$/user-impl" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.2.8" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

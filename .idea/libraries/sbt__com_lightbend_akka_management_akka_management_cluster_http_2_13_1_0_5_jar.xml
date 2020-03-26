@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.lightbend.akka.management:akka-management-cluster-http_2.13:1.0.5:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.lightbend.akka.management/akka-management-cluster-http_2.13/jars/akka-management-cluster-http_2.13-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.lightbend.akka.management/akka-management-cluster-http_2.13/srcs/akka-management-cluster-http_2.13-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
