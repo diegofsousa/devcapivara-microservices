@@ -2,7 +2,7 @@
 
 Este projeto foi construído para a aula de Scala e
 Microserviços disponibilizado via Podcast e Live 
-pelo [https://devcapivara.com.br](DevCapivara) no dia 25/03/2020.
+pelo [DevCapivara](https://devcapivara.com.br) no dia 25/03/2020.
 
 ## Objetivo
 
@@ -27,6 +27,7 @@ o **dev-capivara** sempre que vai exibir as capivaras de
 um usuário.
 
 Desenho da aplicação:
+
 ![Arquitetura da aplicação](architecture.jpg)
 
 ## Como rodar o projeto
@@ -63,4 +64,4 @@ Modelo do entrada:
 
 ## Outras informações
 
-> Link para a Live: [https://www.youtube.com/watch?v=SR_DFsclZkw](Link Youtube)
+> Link para a Live: [Link Youtube](https://www.youtube.com/watch?v=SR_DFsclZkw)
