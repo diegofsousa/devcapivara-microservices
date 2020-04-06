@@ -47,8 +47,8 @@ Com Java 8 e SBT instalados, inicie o docker-compose e inicie o Lagom:
 Modelo do entrada:
 ```
 {
-	"name":"Diego,
-	"email":"diegofelima.ti@gmail.com"
+	"name": "Diego",
+	"email": "diegofelima.ti@gmail.com"
 }
 ```
 
@@ -56,9 +56,9 @@ Modelo do entrada:
 Modelo do entrada:
 ```
 {
-    "name":"Capivara",
-    "age":2,
-    "color":Marrom
+    "name": "Capivara",
+    "age": 2,
+    "color": "marrom"
 }
 ```
 
